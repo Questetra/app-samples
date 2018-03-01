@@ -1,1 +1,1 @@
-- [20180305-General_Work_Request-ja.qar](./20180305-General_Work_Request-ja.qar "Title")
+- [一覧（日本語版）](./ja/ "Title")
