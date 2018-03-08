@@ -16,3 +16,4 @@
 
 ### 03
 - [20180305-General_Work_Request-ja.qar](./en/20180305-General_Work_Request-en.qar "Work Request flow")
+- [20180312-Planning_Approval-en.qar](./en/20180312-Planning_Approval-en.qar "Planning-Approval flow")
