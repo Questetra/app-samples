@@ -6,7 +6,7 @@
 
 ### 03
 - [20180305-General_Work_Request-ja.qar](./ja/20180305-General_Work_Request-ja.qar "作業依頼フロー")
-- [20180305-General_Work_Request-ja.qar](./ja/20180312-Planning_Approval-ja.qar "稟議フロー")
+- [20180312-Planning_Approval-ja.qar](./ja/20180312-Planning_Approval-ja.qar "稟議フロー")
 
 
 # 英語
