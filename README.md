@@ -8,6 +8,7 @@
 - [20180305-General_Work_Request-ja.qar](./ja/20180305-General_Work_Request-ja.qar "作業依頼フロー")
 - [20180312-Planning_Approval-ja.qar](./ja/20180312-Planning_Approval-ja.qar "稟議フロー")
 - [20180319-Purchasing-ja.qar](./ja/20180319-Purchasing-ja.qar "物品購入依頼")
+- [20180326-Expense_Claim-ja.qar](./ja/20180326-Expense_Claim-ja.qar "立替金精算フロー")
 
 
 # 英語
