@@ -10,6 +10,9 @@
 - [20180319-Purchasing-ja.qar](./ja/20180319-Purchasing-ja.qar "物品購入依頼")
 - [20180326-Expense_Claim-ja.qar](./ja/20180326-Expense_Claim-ja.qar "立替金精算フロー")
 
+### 04
+- [20180402-Attendance_Report-ja.qar](./ja/20180402-Attendance_Report-ja.qar "出退勤報告フロー")
+
 
 # 英語
 ## 2018
