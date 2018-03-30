@@ -24,3 +24,6 @@
 - [20180312-Planning_Approval-en.qar](./en/20180312-Planning_Approval-en.qar "Planning-Approval flow")
 - [20180319-Purchasing-en.qar](./en/20180319-Purchasing-en.qar "Purchasing flow")
 - [20180326-Expense_Claim-en.qar](./en/20180326-Expense_Claim-en.qar "Out-of-pocket Expenses claim")
+
+### 04
+- [20180402-Attendance_Report-en.qar](./en/20180402-Attendance_Report-en.qar "Hours Worked Report")
