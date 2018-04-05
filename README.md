@@ -12,6 +12,7 @@
 
 ### 04
 - [20180402-Attendance_Report-ja.qar](./ja/20180402-Attendance_Report-ja.qar "出退勤報告フロー")
+- [21180409-Daily_Report-ja.qar](./ja/21180409-Daily_Report-ja.qar "日報フロー")
 
 
 # 英語
