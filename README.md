@@ -4,6 +4,7 @@
 ## 2015
 ### 12
 - [20151221-Planning_Approval-ja.qar](./ja/20151221-Planning_Approval-ja.qar "稟議書フロー")
+- [20151228-Procurement_Request-ja.qar](./ja/20151228-Procurement_Request-ja.qar "購買申請フロー")
 
 ## 2016
 
@@ -35,6 +36,7 @@
 
 ### 12
 - [20151221-Planning_Approval-en.qar](./en/20151221-Planning_Approval-en.qar "Planning-Approval flow")
+- [20151228-Procurement_Request-en.qar](./en/20151228-Procurement_Request-en.qar "Procurement Request flow")
 
 ## 2016
 
