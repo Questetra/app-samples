@@ -1,5 +1,10 @@
 
 # 日本語
+
+## 2015
+### 12
+- [20151221-Planning_Approval-ja.qar](./ja/20151221-Planning_Approval-ja.qar "稟議書フロー")
+
 ## 2016
 
 ### 01
@@ -26,6 +31,11 @@
 
 
 # 英語
+## 2015
+
+### 12
+- [20151221-Planning_Approval-en.qar](./en/20151221-Planning_Approval-en.qar "Planning-Approval flow")
+
 ## 2016
 
 ### 01
