@@ -1,6 +1,10 @@
 
 # 日本語
 ## 2016
+
+### 01
+- [20160104-Expense_Claim-ja.qar](./ja/20160104-Expense_Claim-ja.qar "立替金精算フロー")
+
 ### 02
 
 - [20160222-Approval_Request-ja.qar](./ja/20160222-Approval_Request-ja.qar "稟議フロー")
@@ -23,6 +27,10 @@
 
 # 英語
 ## 2016
+
+### 01
+- [20160104-Expense_Claim-en.qar](./en/20160104-Expense_Claim-en.qar "Out-of-pocket Expenses Claim flow")
+
 ### 02
 
 - [20160222-Approval_Request-en.qar](./en/20160222-Approval_Request-en.qar "Approval Request")
