@@ -4,7 +4,7 @@
 ## 2015
 
 ### 10
-- [20151026-Web-API-Corporation_Number-ja.qar](./ja/20151026-Web-API-Corporation_Number-ja.qar "法人番号システム呼び出し（Web-API）")
+- [20151026-Web-API-Corporation_Number-ja.qar](./ja/20151026-Call_Corporation_Number_System-ja.qar "法人番号システム呼び出し（Web-API）")
 
 ### 12
 - [20151221-Planning_Approval-ja.qar](./ja/20151221-Planning_Approval-ja.qar "稟議書フロー")
@@ -39,7 +39,7 @@
 ## 2015
 
 ### 10
-- [20151026-Web-API-Corporation_Number-en.qar](./en/20151026-Web-API-Corporation_Number-en.qar "Call Corporation Number System (Web-API)")
+- [20151026-Web-API-Corporation_Number-en.qar](./en/20151026-Call_Corporation_Number_System-en.qar "Call Corporation Number System (Web-API)")
 
 ### 12
 - [20151221-Planning_Approval-en.qar](./en/20151221-Planning_Approval-en.qar "Planning-Approval flow")
