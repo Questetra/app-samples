@@ -1,0 +1,83 @@
+[
+{
+    "id": "20151026-Call_Corporation_Number_System",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20151026-Call_Corporation_Number_System-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20151026-Call_Corporation_Number_System-ja.qar",
+    },
+    "last-modified": "2015-10-26",
+    "name":
+    {
+        "en": "Call Corporation Number System (Web-API)",
+        "ja": "法人番号システム呼び出し（Web-API）",
+    },
+    "description":
+    {
+        "en": "Utilize the Information Reference Service of National Tax Agency",
+        "ja": "国税庁の情報参照サービスを利用",
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/corporation-number/call-corporation_number_system/",
+        "ja": "https://support.questetra.com/ja/templates/corporation-number/call-corporation_number_system/",
+    },
+    "sample_url":
+    {
+        "en": "http://en.workflow-sample.net/2015/10/web-api-corporation-number.html",
+        "ja": "http://ja.workflow-sample.net/2015/10/web-api-corporation-number.html",
+    }
+},
+{
+    "id": "20150831-Check_Digit_Sample",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20150831-Check_Digit_Sample-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20150831-Check_Digit_Sample-ja.qar"
+    },
+    "last-modified": "2015-08-31",
+    "name":
+    {
+        "en": "Check Digit sample",
+        "ja": "Check Digit サンプル"
+    },
+    "description":
+    {
+        "en": "Detection of erroneous input in Individual and Corporation Number",
+        "ja": "法人番号や個人番号を入力誤りを検出"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/individual-number/check-digit_sample/",
+        "ja": "https://support.questetra.com/ja/templates/individual-number/check-digit_sample/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2015/08/my-number-check-digit.html",
+        "ja": "https://ja.workflow-sample.net/2015/08/my-number-check-digit.html"
+    }
+},
+{
+  "id" : "20180416-Attendance-work_Report",
+  "file" : {
+    "en" : "https://questetra.github.io/app-templates/en/20180416-Attendance-Work_Report-en.qar",
+    "ja" : "https://questetra.github.io/app-templates/ja/20180416-Attendance-Work_Report-ja.qar"
+  },
+  "last-modified" : "2018-04-16",
+  "name" : {
+    "en" : "Attendance-Work Report",
+    "ja" : "出退勤・日報フロー"
+  },
+  "description" : {
+    "en" : " Automatic start every day, integrate time and daily report",
+    "ja" : "毎日自動開始、勤怠と日報を統合"
+  },
+  "support_url" : {
+    "en" : "https://support.questetra.com/templates/attendance-management/attendance-work-report/",
+    "ja" : "https://support.questetra.com/ja/templates/attendance-management-ja/attendance-work-report/"
+  },
+  "sample_url" : {
+    "en" : "https://en.workflow-sample.net/2018/04/attendance-daily-report.html",
+    "ja" : "https://ja.workflow-sample.net/2018/04/attendance-daily-report.html"
+  }
+}]

@@ -33,6 +33,7 @@
 ### 04
 - [20180402-Attendance_Report-ja.qar](./ja/20180402-Attendance_Report-ja.qar "出退勤報告フロー")
 - [21180409-Daily_Report-ja.qar](./ja/21180409-Daily_Report-ja.qar "日報フロー")
+- [20180416-Attendance-work_Report-ja.qar](./ja/20180416-Attendance-work_Report-ja.qar "出退勤・日報フロー")
 
 
 # 英語
@@ -66,3 +67,4 @@
 
 ### 04
 - [20180402-Attendance_Report-en.qar](./en/20180402-Attendance_Report-en.qar "Hours Worked Report")
+- [20180416-Attendance-Work_Report-en.qar](./en/20180416-Attendance-Work_Report-en.qar "Attendance-Work Report")
