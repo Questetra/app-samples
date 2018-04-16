@@ -58,49 +58,166 @@
     }
 },
 {
-  "id" : "20180416-Attendance-work_Report",
+    "id": "20180416-Attendance-work_Report",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20180416-Attendance-Work_Report-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20180416-Attendance-Work_Report-ja.qar"
+    },
+    "last-modified": "2018-04-16",
+    "name":
+    {
+        "en": "Attendance-Work Report",
+        "ja": "出退勤・日報フロー"
+    },
+    "description":
+    {
+        "en": " Automatic start every day, integrate time and daily report",
+        "ja": "毎日自動開始、勤怠と日報を統合"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/attendance-management/attendance-work-report/",
+        "ja": "https://support.questetra.com/ja/templates/attendance-management-ja/attendance-work-report/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2018/04/attendance-daily-report.html",
+        "ja": "https://ja.workflow-sample.net/2018/04/attendance-daily-report.html"
+    },
+},
+{
+    "id": "20150622-Individual_Number_Application2",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20150622-Individual_Number_Application2-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20150622-Individual_Number_Application2-ja.qar"
+    },
+    "last-modified": "2015-06-22",
+    "name":
+    {
+        "en": "Individual Number Application flow-2",
+        "ja": "マイナンバー申請フロー"
+    },
+    "description":
+    {
+        "en": "Applied by Employees, confirmed by the Administration Dept. (w/CD verification)",
+        "ja": "社員が申請、管理部が確認（CD検査付）"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/individual-number_application2/",
+        "ja": "https://support.questetra.com/ja/templates/individual-number_application2/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2015/06/individual-number-2.html",
+        "ja": "https://ja.workflow-sample.net/2015/06/individual-number-2.html"
+    }
+},
+{
+    "id": "20180402-Attendance_Report",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20180402-Attendance_Report-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20180402-Attendance_Report-ja.qar"
+    },
+    "last-modified": "2018-04-02",
+    "name":
+    {
+        "en": "Hours Worked Report",
+        "ja": "出退勤報告フロー"
+    },
+    "description":
+    {
+        "en": "毎日自動開始、入力支援とチェック",
+        "ja": "毎日自動開始、入力支援とチェック"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/attendance-report/",
+        "ja": "https://support.questetra.com/ja/templates/attendance-report/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2018/04/attendance-report-improve.html",
+        "ja": "https://ja.workflow-sample.net/2018/04/attendance-report.html"
+    }
+},
+{
+    "id": "20180319-Purchasing",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20180319-Purchasing-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20180319-Purchasing-ja.qar"
+    },
+    "last-modified": "2018-03-19",
+    "name":
+    {
+        "en": "Procurement Request flow",
+        "ja": "物品購入依頼フロー"
+    },
+    "description":
+    {
+        "en": "社員が申請し、総務が発注する",
+        "ja": "社員が申請し、総務が発注する"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/20180319-procurement_request/",
+        "ja": "https://support.questetra.com/ja/templates/20180319-procurement_request/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2018/03/purchasing.html",
+        "ja": "https://ja.workflow-sample.net/2018/03/purchasing.html"
+    }
+},
+{
+  "id" : "20150629-Individual_Number_Application3",
   "file" : {
-    "en" : "https://questetra.github.io/app-templates/en/20180416-Attendance-Work_Report-en.qar",
-    "ja" : "https://questetra.github.io/app-templates/ja/20180416-Attendance-Work_Report-ja.qar"
+    "en" : "https://questetra.github.io/app-templates/en/20150629-Individual_Number_Application3-en.qar",
+    "ja" : "https://questetra.github.io/app-templates/ja/20150629-Individual_Number_Application3-ja.qar"
   },
-  "last-modified" : "2018-04-16",
+  "last-modified" : "2015-06-29",
   "name" : {
-    "en" : "Attendance-Work Report",
-    "ja" : "出退勤・日報フロー"
+    "en" : "Individual Number Application flow-3",
+    "ja" : "マイナンバー申請フロー(3)"
   },
   "description" : {
-    "en" : " Automatic start every day, integrate time and daily report",
-    "ja" : "毎日自動開始、勤怠と日報を統合"
+    "en" : "b",
+    "ja" : "社員が申請、支店長が確認"
   },
   "support_url" : {
-    "en" : "https://support.questetra.com/templates/attendance-management/attendance-work-report/",
-    "ja" : "https://support.questetra.com/ja/templates/attendance-management-ja/attendance-work-report/"
+    "en" : "https://support.questetra.com/templates/20150629-individual_number_application3/",
+    "ja" : "https://support.questetra.com/ja/templates/20150629-individual_number_application3/"
   },
   "sample_url" : {
-    "en" : "https://en.workflow-sample.net/2018/04/attendance-daily-report.html",
-    "ja" : "https://ja.workflow-sample.net/2018/04/attendance-daily-report.html"
-  },
-},{
-  "id" : "20150622-Individual_Number_Application2",
+    "en" : "https://en.workflow-sample.net/2015/06/individual-number-3.html",
+    "ja" : "https://ja.workflow-sample.net/2015/06/individual-number-3.html"
+  }
+},
+{
+  "id" : "20151026-Call_Corporation_Number_System",
   "file" : {
-    "en" : "https://questetra.github.io/app-templates/en/20150622-Individual_Number_Application2-en.qar",
-    "ja" : "https://questetra.github.io/app-templates/ja/20150622-Individual_Number_Application2-ja.qar"
+    "en" : "https://questetra.github.io/app-templates/en/20151026-Call_Corporation_Number_System-en.qar",
+    "ja" : "https://questetra.github.io/app-templates/ja/20151026-Call_Corporation_Number_System-ja.qar",
   },
-  "last-modified" : "2015-06-22",
+  "last-modified" : "2015-10-26",
   "name" : {
-    "en" : "Individual Number Application flow-2",
-    "ja" : "マイナンバー申請フロー"
+    "en" : "Call Corporation Number System (Web-API)",
+    "ja" : "法人番号システム呼び出し（Web-API）",
   },
   "description" : {
-    "en" : "Applied by Employees, confirmed by the Administration Dept. (w/CD verification)",
-    "ja" : "社員が申請、管理部が確認（CD検査付）"
+    "en" : "Utilize the Information Reference Service of National Tax Agency",
+    "ja" : "国税庁の情報参照サービスを利用",
   },
   "support_url" : {
-    "en" : "https://support.questetra.com/templates/individual-number_application2/",
-    "ja" : "https://support.questetra.com/ja/templates/individual-number_application2/"
+    "en" : "https://support.questetra.com/templates/corporation-number/call-corporation_number_system/",
+    "ja" : "https://support.questetra.com/templates/corporation-number/call-corporation_number_system/",
   },
   "sample_url" : {
-    "en" : "https://en.workflow-sample.net/2015/06/individual-number-2.html",
-    "ja" : "https://ja.workflow-sample.net/2015/06/individual-number-2.html"
+    "en" : "http://en.workflow-sample.net/2015/10/web-api-corporation-number.html",
+    "ja" : "http://ja.workflow-sample.net/2015/10/web-api-corporation-number.html",
   }
 }]
