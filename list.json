@@ -174,50 +174,147 @@
     }
 },
 {
-  "id" : "20150629-Individual_Number_Application3",
-  "file" : {
-    "en" : "https://questetra.github.io/app-templates/en/20150629-Individual_Number_Application3-en.qar",
-    "ja" : "https://questetra.github.io/app-templates/ja/20150629-Individual_Number_Application3-ja.qar"
-  },
-  "last-modified" : "2015-06-29",
-  "name" : {
-    "en" : "Individual Number Application flow-3",
-    "ja" : "マイナンバー申請フロー(3)"
-  },
-  "description" : {
-    "en" : "b",
-    "ja" : "社員が申請、支店長が確認"
-  },
-  "support_url" : {
-    "en" : "https://support.questetra.com/templates/20150629-individual_number_application3/",
-    "ja" : "https://support.questetra.com/ja/templates/20150629-individual_number_application3/"
-  },
-  "sample_url" : {
-    "en" : "https://en.workflow-sample.net/2015/06/individual-number-3.html",
-    "ja" : "https://ja.workflow-sample.net/2015/06/individual-number-3.html"
-  }
+    "id": "20150629-Individual_Number_Application3",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20150629-Individual_Number_Application3-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20150629-Individual_Number_Application3-ja.qar"
+    },
+    "last-modified": "2015-06-29",
+    "name":
+    {
+        "en": "Individual Number Application flow-3",
+        "ja": "マイナンバー申請フロー(3)"
+    },
+    "description":
+    {
+        "en": "b",
+        "ja": "社員が申請、支店長が確認"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/20150629-individual_number_application3/",
+        "ja": "https://support.questetra.com/ja/templates/20150629-individual_number_application3/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2015/06/individual-number-3.html",
+        "ja": "https://ja.workflow-sample.net/2015/06/individual-number-3.html"
+    }
 },
 {
-  "id" : "20151026-Call_Corporation_Number_System",
-  "file" : {
-    "en" : "https://questetra.github.io/app-templates/en/20151026-Call_Corporation_Number_System-en.qar",
-    "ja" : "https://questetra.github.io/app-templates/ja/20151026-Call_Corporation_Number_System-ja.qar",
-  },
-  "last-modified" : "2015-10-26",
-  "name" : {
-    "en" : "Call Corporation Number System (Web-API)",
-    "ja" : "法人番号システム呼び出し（Web-API）",
-  },
-  "description" : {
-    "en" : "Utilize the Information Reference Service of National Tax Agency",
-    "ja" : "国税庁の情報参照サービスを利用",
-  },
-  "support_url" : {
-    "en" : "https://support.questetra.com/templates/corporation-number/call-corporation_number_system/",
-    "ja" : "https://support.questetra.com/templates/corporation-number/call-corporation_number_system/",
-  },
-  "sample_url" : {
-    "en" : "http://en.workflow-sample.net/2015/10/web-api-corporation-number.html",
-    "ja" : "http://ja.workflow-sample.net/2015/10/web-api-corporation-number.html",
-  }
+    "id": "20151026-Call_Corporation_Number_System",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20151026-Call_Corporation_Number_System-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20151026-Call_Corporation_Number_System-ja.qar",
+    },
+    "last-modified": "2015-10-26",
+    "name":
+    {
+        "en": "Call Corporation Number System (Web-API)",
+        "ja": "法人番号システム呼び出し（Web-API）",
+    },
+    "description":
+    {
+        "en": "Utilize the Information Reference Service of National Tax Agency",
+        "ja": "国税庁の情報参照サービスを利用",
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/corporation-number/call-corporation_number_system/",
+        "ja": "https://support.questetra.com/templates/corporation-number/call-corporation_number_system/",
+    },
+    "sample_url":
+    {
+        "en": "http://en.workflow-sample.net/2015/10/web-api-corporation-number.html",
+        "ja": "http://ja.workflow-sample.net/2015/10/web-api-corporation-number.html",
+    }
+},
+{
+    "id": "20170116-Order_Reporting",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20170116-Order_Reporting-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20170116-Order_Reporting-ja.qar"
+    },
+    "last-modified": "2017-01-16",
+    "name":
+    {
+        "en": "Order Reporting flow",
+        "ja": "受注報告プロセス"
+    },
+    "description":
+    {
+        "en": "Automatic emailing to internal when receiving orders of over 1 million yen",
+        "ja": "100万円以上の受注を社内に自動メール"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/20170116-order-reporting/",
+        "ja": "https://support.questetra.com/ja/templates/20170116-order-reporting/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2017/01/process-automation-1.html",
+        "ja": "https://ja.workflow-sample.net/2017/01/process-automation-1.html"
+    }
+},
+{
+    "id": "20160116-Order_Reporting_Email",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20160116-Order_Reporting_Email-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20160116-Order_Reporting_Email-ja.qar"
+    },
+    "last-modified": "2016-01-16",
+    "name":
+    {
+        "en": "Order Reporting flow-email",
+        "ja": "受注報告プロセス-役員報告"
+    },
+    "description":
+    {
+        "en": "Automatic emailing to internal when receiving orders of over 1 million yen",
+        "ja": "100万円以上の受注を社内に自動メール"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/20160116-order-reporting_email/",
+        "ja": "https://support.questetra.com/ja/templates/20160116-order-reporting_email/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2017/01/process-automation-1.html",
+        "ja": "https://ja.workflow-sample.net/2017/01/process-automation-1.html"
+    }
+},
+{
+    "id": "20170116-Order_Reporting_email_Notification",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20170116-Order_Reporting_email_Notification-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20170116-Order_Reporting_email_Notification-ja.qar"
+    },
+    "last-modified": "2017-01-16",
+    "name":
+    {
+        "en": "Order Reporting flow-email notification",
+        "ja": "受注報告プロセス-役員通知"
+    },
+    "description":
+    {
+        "en": "Automatic emailing to internal when receiving orders of over 1 million yen",
+        "ja": "100万円以上の受注を社内に自動メール"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/order-reporting-flow-email-notification/",
+        "ja": "https://support.questetra.com/ja/templates/order-reporting-flow-email-notification/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2017/01/process-automation-1.html",
+        "ja": "https://ja.workflow-sample.net/2017/01/process-automation-1.html"
+    }
 }]
