@@ -79,5 +79,28 @@
   "sample_url" : {
     "en" : "https://en.workflow-sample.net/2018/04/attendance-daily-report.html",
     "ja" : "https://ja.workflow-sample.net/2018/04/attendance-daily-report.html"
+  },
+},{
+  "id" : "20150622-Individual_Number_Application2",
+  "file" : {
+    "en" : "https://questetra.github.io/app-templates/en/20150622-Individual_Number_Application2-en.qar",
+    "ja" : "https://questetra.github.io/app-templates/ja/20150622-Individual_Number_Application2-ja.qar"
+  },
+  "last-modified" : "2015-06-22",
+  "name" : {
+    "en" : "Individual Number Application flow-2",
+    "ja" : "マイナンバー申請フロー"
+  },
+  "description" : {
+    "en" : "Applied by Employees, confirmed by the Administration Dept. (w/CD verification)",
+    "ja" : "社員が申請、管理部が確認（CD検査付）"
+  },
+  "support_url" : {
+    "en" : "https://support.questetra.com/templates/individual-number_application2/",
+    "ja" : "https://support.questetra.com/ja/templates/individual-number_application2/"
+  },
+  "sample_url" : {
+    "en" : "https://en.workflow-sample.net/2015/06/individual-number-2.html",
+    "ja" : "https://ja.workflow-sample.net/2015/06/individual-number-2.html"
   }
 }]
