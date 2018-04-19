@@ -317,4 +317,33 @@
         "en": "https://en.workflow-sample.net/2017/01/process-automation-1.html",
         "ja": "https://ja.workflow-sample.net/2017/01/process-automation-1.html"
     }
+},
+{
+    "id": "20180423-Leave_Request",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20180423-Leave_Request-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20180423-Leave_Request-ja.qar"
+    },
+    "last-modified": "2018-04-23",
+    "name":
+    {
+        "en": "Leave Request flow",
+        "ja": "休暇申請フロー"
+    },
+    "description":
+    {
+        "en": "Work Manual reference on Operating form",
+        "ja": "申請画面から業務マニュアル参照"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/20180423-leave-request/",
+        "ja": "https://support.questetra.com/ja/templates/20180423-leave-request/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2018/04/leave-request.html",
+        "ja": "https://ja.workflow-sample.net/2018/04/leave-request.html"
+    }
 }]
