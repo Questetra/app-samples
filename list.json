@@ -346,4 +346,168 @@
         "en": "https://en.workflow-sample.net/2018/04/leave-request.html",
         "ja": "https://ja.workflow-sample.net/2018/04/leave-request.html"
     }
+},
+{
+    "id": "20180514-Approval_1",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20180514-Approval_1-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20180514-Approval_1-ja.qar"
+    },
+    "last-modified": "2018-05-14",
+    "name":
+    {
+        "en": "Approval flow (absolute representation 1)",
+        "ja": "稟議フロー（絶対的表記１）"
+    },
+    "description":
+    {
+        "en": "Absolute specify boss and its boss",
+        "ja": "上司とその上司を絶対指定"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/20180514-approval-1/",
+        "ja": "https://support.questetra.com/ja/templates/20180514-approval-1/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2018/05/approval-flow-1.html",
+        "ja": "https://ja.workflow-sample.net/2018/05/approval-flow-1.html"
+    }
+},
+{
+    "id": "20180528-Approval-designate_approver_decision_maker, 20180528-Approval-designate_approver_decision_maker",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20180528-Approval-designate_approver_decision_maker-en.qar, https://questetra.github.io/app-templates/en/20180528-Approval-separate_the_request_of_the_manager-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20180528-Approval-designate_approver_decision_maker-ja.qar, https://questetra.github.io/app-templates/ja/20180528-Approval-separate_the_request_of_the_manager-ja.qar"
+    },
+    "last-modified": "2018-05-28",
+    "name":
+    {
+        "en": "Approval flow (Separate the request of the Manager), Approval flow (Designate Approver/Decision-maker)",
+        "ja": "稟議フロー（マネージャ起案を別の業務プロセスとして分離）, 稟議フロー（承認・決裁者を指名）"
+    },
+    "description":
+    {
+        "en": "Separate flow, designation of approver",
+        "ja": "起案者ごとにワークフローを分岐, 承認者・決裁者をデータで指名"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/20180528-approval-separate_the_request_of_the_manager/, https://support.questetra.com/templates/20180528-approval-designate_approver_decision_make/",
+        "ja": "https://support.questetra.com/ja/templates/20180528-approval-separate_the_request_of_the_manager/, https://support.questetra.com/ja/templates/20180528-approval-designate_approver_decision_make/"
+    },
+    "sample_url":
+    {
+        "en": "https://ja.workflow-sample.net/2018/05/approval-flow-3.html",
+        "ja": "https://ja.workflow-sample.net/2018/05/approval-flow-3.html"
+    }
+},
+{
+    "id": "20180604-Approval_Request",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20180604-Approval_Request-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20180604-Approval_Request-ja.qar"
+    },
+    "last-modified": "2018-06-04",
+    "name":
+    {
+        "en": "Approval Request",
+        "ja": "稟議フロー"
+    },
+    "description":
+    {
+        "en": "Expansion of Approval Request (Starter Template)",
+        "ja": "稟議書フロー（基本業務パック）の拡張"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/20180604-approval-request/",
+        "ja": "https://support.questetra.com/ja/templates/20180604-approval-request/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2018/06/approval-flow-4.html",
+        "ja": "https://ja.workflow-sample.net/2018/06/approval-flow-4.html"
+    }
+},
+{
+    "id": "20180611-InputForm-Test",
+    "file":
+    {
+        "en": "https://questetra.github.io/app-templates/en/20180611-InputForm-Test-en.qar",
+        "ja": "https://questetra.github.io/app-templates/ja/20180611-InputForm-Test-ja.qar"
+    },
+    "last-modified": "2018-06-11",
+    "name":
+    {
+        "en": "Test flow for Input form",
+        "ja": "入力フォームのテストフロー"
+    },
+    "description":
+    {
+        "en": "Input assistance button (JavaScript)",
+        "ja": "入力支援ボタン（JavaScript）"
+    },
+    "support_url":
+    {
+        "en": "https://support.questetra.com/templates/20180611-inputform-test/",
+        "ja": "https://support.questetra.com/ja/templates/20180611-inputform-test/"
+    },
+    "sample_url":
+    {
+        "en": "https://en.workflow-sample.net/2018/06/date-input-form-test.html",
+        "ja": "https://ja.workflow-sample.net/2018/06/date-input-form-test.html"
+    }
+},
+{
+  "id" : "20180625-Event_Acceptance-Questionnaire",
+  "file" : {
+    "en" : "https://questetra.github.io/app-templates/en/20180625-Event_Acceptance-Questionnaire-en.qar",
+    "ja" : "https://questetra.github.io/app-templates/ja/20180625-Event_Acceptance-Questionnaire-ja.qar"
+  },
+  "last-modified" : "2018-06-25",
+  "name" : {
+    "en" : "Event Acceptance flow-Questionnaire",
+    "ja" : "イベント受付からアンケート実施フロー"
+  },
+  "description" : {
+    "en" : "Webforms for Acceptance and Questionnaire",
+    "ja" : "フォーム受付からアンケート回答まで"
+  },
+  "support_url" : {
+    "en" : "https://support.questetra.com/templates/20180625-event-acceptance-questionnaire/",
+    "ja" : "https://support.questetra.com/ja/templates/20180625-event-acceptance-questionnaire/"
+  },
+  "sample_url" : {
+    "en" : "英語フロー名が決定してから",
+    "ja" : "英語フロー名が決定してから"
+  }
+},
+{
+  "id" : "20180702-Event_Acceptance-Questionnaire-Expiration",
+  "file" : {
+    "en" : "https://questetra.github.io/app-templates/en/20180702-Event_Acceptance-Questionnaire-Expiration-en.qar",
+    "ja" : "https://questetra.github.io/app-templates/ja/20180702-Event_Acceptance-Questionnaire-Expiration-ja.qar"
+  },
+  "last-modified" : "2018-07-02",
+  "name" : {
+    "en" : "Event_Acceptance-Questionnaire (Expiration)",
+    "ja" : "イベント受付フロー-アンケート（期限セット）"
+  },
+  "description" : {
+    "en" : "Webforms for Acceptance and Questionnaire",
+    "ja" : "フォーム受付からアンケート回答まで"
+  },
+  "support_url" : {
+    "en" : "https://support.questetra.com/templates/20180702-event_acceptance-questionnaire-expiration/",
+    "ja" : "https://support.questetra.com/ja/templates/20180702-event_acceptance-questionnaire-expiration/"
+  },
+  "sample_url" : {
+    "en" : "https://en.workflow-sample.net/2018/07/EventAcceptanceQuestionnaire2.html",
+    "ja" : "https://ja.workflow-sample.net/2018/07/EventAcceptanceQuestionnaire2.html"
+  }
 }]
